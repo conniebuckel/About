@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio!
+# Welcome to my GitHub Portfolio! 🌻
 
 **My name is Connie, and I'm an aspiring data analyst.**
 
